@@ -1,0 +1,7 @@
+<resources>
+    <string name="main_name">Категории</string>
+    <string name="CompanyTitle">Компании</string>
+    <string name="CompanyInfoTitle">О компании</string>
+    <string name="SpecialistTitle">Специалисты</string>
+    <string name="RecordTitle">Выбор даты</string>
+</resources>
