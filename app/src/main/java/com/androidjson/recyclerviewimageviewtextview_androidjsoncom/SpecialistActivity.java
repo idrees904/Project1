@@ -38,7 +38,7 @@ public class SpecialistActivity extends AppCompatActivity {
 
     String HTTP_JSON_URL = "http://barbersakh.ru/specialist.php";
 
-    String FIO_Specialist_JSON = "fio_specialist"; //ФИО специалиста
+    String FIO_Specialist_JSON = "fio_specialist"; //ФИО специалиста.
 
     String Photo_Specialist_JSON = "photo_specialist"; //Фотография специалиста
 
